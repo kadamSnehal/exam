@@ -5,7 +5,7 @@ app.get("/",(req,resp)=>{
     resp.send("<h2>Welcome</h2>");
 });
 
-app.get("/aboutus",()=>{
+app.get("/aboutus",(req,resp)=>{
     resp.send("<h2>Nothing to describe !!!!!</h2>")
 });
 app.listen(3000);
