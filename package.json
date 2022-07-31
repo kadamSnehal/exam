@@ -1,0 +1,22 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "creating repo before exam preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamSnehal/exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadamSnehal/exam/issues"
+  },
+  "homepage": "https://github.com/kadamSnehal/exam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
